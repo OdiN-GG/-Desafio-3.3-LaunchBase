@@ -1,0 +1,8 @@
+npm init -y = cria o arquivo package.json
+
+npm install express = rotas para o servido
+
+npm install -D nodemon = Configurar Servidor
+	mudar nodemon no start no package.json
+
+npm install nunjucks = tamplade engine
